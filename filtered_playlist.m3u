@@ -1441,3 +1441,6 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="TEST",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Bulgarian",BNT1
+https://lb-ts.cdn.bg/bnt1/fls/bnt1HD_abr.stream/at=O0M9MTQ2LjcwLjE4OC4yMTQ7RT0xNzcxMTIyNzk0O0E9MTtLPTM7UD0wMTExMDtTPWY5MDJkNzU3NGI2MDUwZWZjMDBhMTYzYWYzNjQ5NTllZTRkZTA4Yzk=/playlist.m3u8
