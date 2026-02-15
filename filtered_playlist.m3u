@@ -1442,5 +1442,69 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="TEST",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Bulgarian",BNT1
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1771108995&hash=CeLyVfIvH98BwmsdLuOJrw
+#EXTM3U
+
+#EXTINF:-1 group-title="Bulgarian",24 KITCHEN BG
+http://w3.drundoo.com:81/playlist-24Kitchen_2=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",BALKANIKA
+http://w3.drundoo.com:81/playlist-Balkanika=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",DIEMA FAMILY
+http://w3.drundoo.com:81/playlist-DiemaFamily=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",NOVA
+http://w3.drundoo.com:81/playlist-NOVA=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",RING BG
+http://w3.drundoo.com:81/playlist-RINGBG=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",SUPER7
+http://w3.drundoo.com:81/playlist-Super7_1=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",THE VOICE
+http://w3.drundoo.com:81/playlist-TheVoice=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",TV7
+http://w3.drundoo.com:81/playlist-TV7_2=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",VIASAT EXPLORER
+http://w3.drundoo.com:81/playlist-ViasatExplor_1=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",BTV
+http://w3.drundoo.com:81/playlist-bTV=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",BTV ACTION
+http://w3.drundoo.com:81/playlist-bTVAction=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",BTV CINEMA
+http://w3.drundoo.com:81/playlist-bTVCinema=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",BTV COMEDY
+http://w3.drundoo.com:81/playlist-bTVComedy=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",BTV HD
+http://w3.drundoo.com:81/playlist-bTVHD=3.m3u8
+#EXTINF:-1 group-title="Bulgarian",BNT1
+http://w3.drundoo.com:81/playlist-BNT1=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",PLANETA FOLK
+http://w3.drundoo.com:81/playlist-PlanetaFolk=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",EUROSPORT HD
+http://w3.drundoo.com:81/playlist-EurosportHD=3.m3u8
+#EXTINF:-1 group-title="Bulgarian",FEN TV
+http://w3.drundoo.com:81/playlist-FANTV=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",FOLKLOR TV
+http://w3.drundoo.com:81/playlist-FolklorTV=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",FOX
+http://w3.drundoo.com:81/playlist-FOX=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",FOX CRIME BG
+http://w3.drundoo.com:81/playlist-FOXCrime=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",KINO NOVA
+http://w3.drundoo.com:81/playlist-KinoNova=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",MEZZO
+http://w3.drundoo.com:81/playlist-Mezzo=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",DISCOVERY CHANNEL BG
+http://w3.drundoo.com:81/playlist-DiscoveryCha=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",NAT GEO WILD BG
+http://w3.drundoo.com:81/playlist-NGWILD=1.m3u8
+#EXTINF:-1 group-title="Bulgarian",NATIONAL GEOGRAPHIC CHANNEL BG
+http://w3.drundoo.com:81/playlist-NationalGeog_2=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",BNT1 HD
+http://w3.drundoo.com:81/playlist-BNT1_HD=3.m3u8
+#EXTINF:-1 group-title="Bulgarian",NEWS7
+http://w3.drundoo.com:81/playlist-bbt_1=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",CITY
+http://w3.drundoo.com:81/playlist-CityTV_2=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",CN
+http://w3.drundoo.com:81/playlist-CN=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",NOVA SPORT
+http://w3.drundoo.com:81/playlist-NOVAsport=6.m3u8
+#EXTINF:-1 group-title="Bulgarian",PLANETA
+http://w3.drundoo.com:81/playlist-PlanetaTV=1.m3u8
